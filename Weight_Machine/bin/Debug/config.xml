@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<appSettings>
+  <PortName>fff</PortName> 
+   <BaudRate>9600</BaudRate> 
+     <Rtsp>rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov</Rtsp> 
+    <Kill>1234</Kill> 
+
+</appSettings>

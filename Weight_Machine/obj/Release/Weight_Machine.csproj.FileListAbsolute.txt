@@ -1,0 +1,2 @@
+/Volumes/Working_WIth/chash/weight/Weight_Machine/Weight_Machine/obj/Release/Weight_Machine.csprojAssemblyReference.cache
+/Volumes/Working_WIth/chash/weight/Weight_Machine/Weight_Machine/obj/Release/Weight_Machine.csproj.CoreCompileInputs.cache
